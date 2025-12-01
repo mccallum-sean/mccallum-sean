@@ -1,13 +1,21 @@
 # Sean McCallum
 
-20+ years turning conversations into closed deals – from home theatres and cellphones to Kia EVs and houses in Sarnia, Ontario.  
-I’ve managed stores, hit top-10% sales nationally (twice Circle of Excellence at Future Shop), and consistently delivered the highest revenue growth in my malls.
+20+ years in high-stakes sales and operations – from building custom PCs in the early 2000s to closing vehicles, homes, and consistently ranking in the top 10% nationally (twice Circle of Excellence winner). I’ve managed P&L, led teams, and turned customer problems into long-term trust.
 
-Now pivoting that same customer-first hustle into cybersecurity & cloud.  
-Currently earning the Google Cybersecurity Professional Certificate → CompTIA Security+ → AWS path while still putting kids to bed and paying the mortgage.
+**Strengths I bring (and am actively sharpening):**  
+- Strong verbal & written communication – I can explain complex ideas simply (whether it’s a mortgage rate or a ransomware incident)  
+- Customer focused problem solving – I read people fast and find win-win solutions under pressure  
+- Self directed learning & time management – single dad, full-time job, mortgage, and still knocking out 10–15 hours/week on cybersecurity labs after bedtime
 
-I solve problems for people, whether it’s finding the perfect vehicle, the right house, or stopping the next ransomware attack.
+**Core values that drive me in this pivot:**  
+- Protecting people and the businesses they depend on  
+- Doing the right thing even when no one is watching (integrity in sales translates directly to integrity in security)
 
-**Open to junior / entry-level remote SOC analyst, cloud security, or security operations roles in Canada.**
+What excites me most about cybersecurity is simple: real people lose sleep when their data, money, or privacy is at risk. I’ve spent two decades keeping customers safe from bad purchases. Now I’m leveling up to keep them safe from bad actors.
 
-🇨🇦 Sarnia, Ontario | Single dad | Remote-ready
+Currently earning:  
+Google Cybersecurity Professional Certificate → CompTIA Security+ → AWS cloud security path
+
+Open to junior / entry-level remote roles in SOC, cloud security, security operations, or governance/risk/compliance – especially with organizations that value clear communication, customer trust, and protecting what matters most.
+
+🇨🇦 Sarnia, Ontario | Single dad of two | Remote-ready | Always learning
