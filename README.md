@@ -2,25 +2,26 @@
 
 🇨🇦 Sarnia, Ontario | Single dad | Remote-ready  
 Actively pivoting 20+ years of sales/ops leadership into **cybersecurity & cloud security**.
+Turning conversations into closed deals, now protecting data instead.
 
 **Current focus (2025–2026)**  
 - Google Cybersecurity Professional Certificate (active)  
 - CompTIA Security+ → AWS cloud security certifications  
-- Hands on labs: TryHackMe, Qwiklabs, home SIEM builds
+- Hands-on labs: TryHackMe, Qwiklabs, home SIEM builds  
 
 **Strengths I’m bringing to the blue team**  
-- Explaining complex things simply (20 years turning “no” into “yes” on high value deals)  
-- Customer first problem solving under pressure  
-- Rock-solid time management (full-time job + kids + mortgage + 10–15 hrs/week studying after 9 pm)
+- Strong verbal & written communication - explaining complex ideas simply (mortgage rates to ransomware risks)  
+- Customer focused problem solving – reading people fast, finding win-wins under pressure  
+- Self directed learning & time management – full-time job + kids + mortgage + 10–15 hrs/week studying post-bedtime  
 
-**Values that drive me**  
+**Core values that drive me**  
 - Protecting people and the businesses they depend on  
-- Doing the right thing even when no one is watching (integrity in sales translates directly to integrity in security)
-- What excites me most about cybersecurity is simple: real people lose sleep when their data, money, or privacy is at risk. I’ve spent two decades keeping customers safe from bad purchases. Now I’m leveling up to keep them safe from bad actors.
+- Integrity first. Doing the right thing, even unseen (sales trust → security ethics)  
 
-Previous life (the proof I finish what I start):  
-Top 10 % national sales performer (twice Circle of Excellence), store manager, P&L owner, realtor, and the guy who consistently posted the highest revenue growth in the mall.
+What excites me: Real people lose sleep over data/privacy threats. I've kept customers safe from bad buys for two decades. Now leveling up to stop bad actors.
 
-Open to **junior / entry-level remote roles** in SOC, cloud security, security operations, or GRC especially with teams that value clear communication and real-world hustle.
+Previous proof I finish strong: Top 10% national sales (twice Circle of Excellence), store/P&L manager, realtor, highest mall revenue growth.
 
-Let’s connect — always learning, always shipping.
+Open to **junior/entry-level remote roles** in SOC, cloud security, security ops, or GRC. Especially teams valuing clear comms and real world hustle.
+
+Let’s connect – always learning, always shipping.
