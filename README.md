@@ -1,21 +1,26 @@
-# Sean McCallum
+# Sean McCallum – Cybersecurity Career Transition (In Progress)
 
-20+ years in high-stakes sales and operations. From building custom PCs in the early 2000s to closing vehicles, homes, and consistently ranking in the top 10% nationally (twice Circle of Excellence winner). I’ve managed P&L, led teams, and turned customer problems into long term trust.
+🇨🇦 Sarnia, Ontario | Single dad | Remote-ready  
+Actively pivoting 20+ years of sales/ops leadership into **cybersecurity & cloud security**.
 
-**Strengths I bring (and am actively sharpening):**  
-- Strong verbal & written communication – I can explain complex ideas simply (whether it’s a mortgage rate or a ransomware incident)  
-- Customer focused problem solving – I read people fast and find win-win solutions under pressure  
-- Self directed learning & time management – single dad, full-time job, mortgage, and still knocking out 10–15 hours/week on cybersecurity labs after bedtime
+**Current focus (2025–2026)**  
+- Google Cybersecurity Professional Certificate (active)  
+- CompTIA Security+ → AWS cloud security certifications  
+- Hands on labs: TryHackMe, Qwiklabs, home SIEM builds
 
-**Core values that drive me in this pivot:**  
+**Strengths I’m bringing to the blue team**  
+- Explaining complex things simply (20 years turning “no” into “yes” on high value deals)  
+- Customer first problem solving under pressure  
+- Rock-solid time management (full-time job + kids + mortgage + 10–15 hrs/week studying after 9 pm)
+
+**Values that drive me**  
 - Protecting people and the businesses they depend on  
 - Doing the right thing even when no one is watching (integrity in sales translates directly to integrity in security)
+- What excites me most about cybersecurity is simple: real people lose sleep when their data, money, or privacy is at risk. I’ve spent two decades keeping customers safe from bad purchases. Now I’m leveling up to keep them safe from bad actors.
 
-What excites me most about cybersecurity is simple: real people lose sleep when their data, money, or privacy is at risk. I’ve spent two decades keeping customers safe from bad purchases. Now I’m leveling up to keep them safe from bad actors.
+Previous life (the proof I finish what I start):  
+Top 10 % national sales performer (twice Circle of Excellence), store manager, P&L owner, realtor, and the guy who consistently posted the highest revenue growth in the mall.
 
-Currently earning:  
-Google Cybersecurity Professional Certificate → CompTIA Security+ → AWS cloud security path
+Open to **junior / entry-level remote roles** in SOC, cloud security, security operations, or GRC especially with teams that value clear communication and real-world hustle.
 
-Open to junior / entry level remote roles in SOC, cloud security, security operations, or governance/risk/compliance especially with organizations that value clear communication, customer trust, and protecting what matters most.
-
-🇨🇦 Sarnia, Ontario | Single dad of two | Remote-ready | Always learning
+Let’s connect — always learning, always shipping.
