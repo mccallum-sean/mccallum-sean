@@ -1,6 +1,6 @@
 # Sean McCallum
 
-20+ years in high-stakes sales and operations – from building custom PCs in the early 2000s to closing vehicles, homes, and consistently ranking in the top 10% nationally (twice Circle of Excellence winner). I’ve managed P&L, led teams, and turned customer problems into long-term trust.
+20+ years in high-stakes sales and operations. From building custom PCs in the early 2000s to closing vehicles, homes, and consistently ranking in the top 10% nationally (twice Circle of Excellence winner). I’ve managed P&L, led teams, and turned customer problems into long term trust.
 
 **Strengths I bring (and am actively sharpening):**  
 - Strong verbal & written communication – I can explain complex ideas simply (whether it’s a mortgage rate or a ransomware incident)  
@@ -16,6 +16,6 @@ What excites me most about cybersecurity is simple: real people lose sleep when 
 Currently earning:  
 Google Cybersecurity Professional Certificate → CompTIA Security+ → AWS cloud security path
 
-Open to junior / entry-level remote roles in SOC, cloud security, security operations, or governance/risk/compliance – especially with organizations that value clear communication, customer trust, and protecting what matters most.
+Open to junior / entry level remote roles in SOC, cloud security, security operations, or governance/risk/compliance especially with organizations that value clear communication, customer trust, and protecting what matters most.
 
 🇨🇦 Sarnia, Ontario | Single dad of two | Remote-ready | Always learning
