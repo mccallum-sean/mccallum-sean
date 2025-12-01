@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sean McCallum
 
-<!--
-**mccallum-sean/mccallum-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20+ years turning conversations into closed deals – from home theatres and cellphones to Kia EVs and houses in Sarnia, Ontario.  
+I’ve managed stores, hit top-10% sales nationally (twice Circle of Excellence at Future Shop), and consistently delivered the highest revenue growth in my malls.
 
-Here are some ideas to get you started:
+Now pivoting that same customer-first hustle into cybersecurity & cloud.  
+Currently earning the Google Cybersecurity Professional Certificate → CompTIA Security+ → AWS path while still putting kids to bed and paying the mortgage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I solve problems for people, whether it’s finding the perfect vehicle, the right house, or stopping the next ransomware attack.
+
+**Open to junior / entry-level remote SOC analyst, cloud security, or security operations roles in Canada.**
+
+🇨🇦 Sarnia, Ontario | Single dad | Remote-ready
