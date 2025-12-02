@@ -22,6 +22,4 @@ What excites me: Real people lose sleep over data/privacy threats. I've kept cus
 
 Previous proof I finish strong: Top 10% national sales (twice Circle of Excellence), store/P&L manager, realtor, highest mall revenue growth.
 
-Open to **junior/entry-level remote roles** in SOC, cloud security, security ops, or GRC. Especially teams valuing clear comms and real world hustle.
-
-Let’s connect – always learning, always shipping.
+Open to **junior/entry-level remote roles** in SOC, cloud security, security ops, or GRC.
