@@ -1,6 +1,6 @@
 # Sean McCallum – Cybersecurity Career Transition (In Progress)
 
-🇨🇦 Sarnia, Ontario | Single dad | Remote-ready  
+🇨🇦 Sarnia, Ontario | Remote-ready  
 Actively pivoting 20+ years of sales/ops leadership into **cybersecurity & cloud security**.
 Turning conversations into closed deals, now protecting data instead.
 
@@ -19,7 +19,5 @@ Turning conversations into closed deals, now protecting data instead.
 - Integrity first. Doing the right thing, even unseen (sales trust → security ethics)  
 
 What excites me: Real people lose sleep over data/privacy threats. I've kept customers safe from bad buys for two decades. Now leveling up to stop bad actors.
-
-Previous proof I finish strong: Top 10% national sales (twice Circle of Excellence), store/P&L manager, realtor, highest mall revenue growth.
 
 Open to **junior/entry-level remote roles** in SOC, cloud security, security ops, or GRC.
