@@ -20,4 +20,4 @@ Turning conversations into closed deals, now protecting data instead.
 
 What excites me: Real people lose sleep over data/privacy threats. I've kept customers safe from bad buys for two decades. Now leveling up to stop bad actors.
 
-Open to **junior/entry-level remote roles** in SOC, InfoSec, cloud security, security ops, or GRC.
+Open to **junior/entry level remote roles** in SOC, InfoSec, cloud security, or security ops.
