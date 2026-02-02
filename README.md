@@ -7,7 +7,7 @@ From turning conversations into closed deals to protecting data and people from 
 
 ### Certifications & Achievements
 
-<img src="images/google-cybersecurity-badge.png" alt="Google Cybersecurity Professional Certificate (v.2)" width="220">
+<img src="images/google-cybersecurity-professional-certificate-v-2.png" alt="Google Cybersecurity Professional Certificate (v.2)" width="220">
 
 **Google Cybersecurity Professional Certificate (v.2)**  
 Issued by Google via Coursera · [Verify on Credly](https://www.credly.com/badges/43891bc1-0ec5-4e14-87e9-6e2d64ab42fd/public_url)  
