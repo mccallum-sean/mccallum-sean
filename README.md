@@ -8,7 +8,7 @@ From turning conversations into closed deals to protecting data and people from 
 ### Certifications & Achievements
 
 <div align="center">
- <img src="images/google-cybersecurity-professional-certificate-v-2.png" alt="Google Cybersecurity Professional Certificate (v.2)" width="25%">
+ <img src="images/google-cybersecurity-professional-certificate-v-2.png" alt="Google Cybersecurity Professional Certificate (v.2)" width="20%">
 </div>
 
 **Google Cybersecurity Professional Certificate (v.2)**  
